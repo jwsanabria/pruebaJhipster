@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mycompany.myapp"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "monolith",
+    "baseName": "proyectos",
+    "packageName": "com.mycompany.myapp",
+    "packageFolder": "com/mycompany/myapp",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "MjFmYTRlZmNlYzhhOGFhODgxYzM2NjNjZDViODNmZjdmNDZlMTBkYmRlY2JlZDk0NGI2YjMwZTRhODhjZGVhYTM3ZTQ5ZjdkODYwYTJiOWY0YzM1NjMxOWFhZTg5YzA3ZDZjMmRiYzkxYTYzMjM5YWY1OTdiYWJlYzBmYzEyZGI=",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": ["protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
